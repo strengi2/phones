@@ -1,0 +1,1 @@
+alert('Paina "ok" läpällä ')

@@ -1,0 +1,55 @@
+
+
+nav {
+  display: block;
+  text-align: center;
+  font-style: italic;
+  background-color: aquamarine;
+}
+i {
+color: aqua;
+}
+.title {
+	 text-align: center;
+   background-image: url("img/images.jfif");
+ }
+.puhelin1{
+  
+  width: 160px;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px 10px 70px;
+  border-bottom: -80px;
+}
+
+.puhelin2 {
+  float: right;
+  width: 160px;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px 10px 70px;
+  border-bottom: -80px;
+  border-radius: 10%;
+
+}
+.ip12{
+  margin: -15px;
+  margin-left: -15px;
+  width: 120%;
+  border-radius: 5%;
+}
+
+#ip11 {
+ margin: -20px;
+ margin-left: -60px;
+}
+
+
+/* FOOTER DETAIL */
+footer {
+  text-align: center;
+  background-color: lightgray;
+  box-sizing; border-box; 
+  Margin: 80px 0 0 0px;
+  padding: 1px 0px 10px 0px;
+}
